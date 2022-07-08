@@ -359,14 +359,14 @@
       "slide": -3
     },
     {
-      "id": 7,
-      "title": "Crusader Kings III",
+      "id": 4,
+      "title": "The Last of Us Part II",
       "platforms": [
-        "windows"
+        "playstation"
       ],
-      "price": "550",
+      "price": "4499",
+      "urlImg": "/gamestore/assets/games/banners/4banner.jpg",
       "isAvailable": true,
-      "urlImg": "/gamestore/assets/new/crusaderKings3.jpg",
       "slide": -4
     },
     {
