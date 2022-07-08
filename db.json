@@ -474,14 +474,24 @@
       "slide": -4
     },
     {
-      "id": 7,
-      "title": "Crusader Kings III",
+      "label": "/gamestore/assets/games/labels/16.jpg",
+      "id": 16,
+      "title": "Serious Sam 4",
       "platforms": [
-        "windows"
+        "windows",
+        "xbox",
+        "playstation"
       ],
-      "price": "550",
+      "genre": [
+        "Экшен",
+        "Шутер",
+        "Приключения"
+      ],
+      "sale": 50,
+      "lastPrice": 2149,
+      "price": "1.319",
+      "urlImg": "/gamestore/assets/games/banners/16banner.jpg",
       "isAvailable": true,
-      "urlImg": "/gamestore/assets/new/crusaderKings3.jpg",
       "slide": -5
     }
   ],
